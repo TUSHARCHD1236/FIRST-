@@ -1,5 +1,2 @@
 # FIRST-
-<br>
-hello my name is ABC
-<BR>
-BYE
+hello welcome to the tutorial
